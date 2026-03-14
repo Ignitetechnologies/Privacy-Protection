@@ -7,14 +7,13 @@ This repository provides step-by-step guides, tools, configurations, and checkli
 
 ## 🌐 Connect With Us
 
-🔵 **Telegram – Join Channel**  
-https://t.me/hackinarticles  
+🔵 **[Telegram – Join Channel](https://t.me/hackinarticles)**  
 
-⚫ **Twitter/X – Follow Us**  
-https://x.com/hackinarticles  
+⚫ **[Twitter/X – Follow Us](https://x.com/hackinarticles)**  
 
-🟣 **Discord – Join Server**  
-https://discord.com/invite/kyKvXwK4Bk
+🟣 **[Discord – Join Server](https://discord.com/invite/kyKvXwK4Bk)**  
+
+🎓 **[Join Our Cybersecurity Training Program](https://forms.gle/bowpX9TGEs41GDG99)**
 
 
 ## 📑 Privacy Protection Series
