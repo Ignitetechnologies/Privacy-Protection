@@ -5,17 +5,18 @@ Welcome to the Privacy Protection Series for Pentesters — a practical collecti
 
 This repository provides step-by-step guides, tools, configurations, and checklists to help pentesters operate with maximum privacy and minimal traceability.
 
-## 🚀 Community & Training
+## 🌐 Connect With Us
 
 🔵 **[Telegram – Join Channel](https://t.me/hackinarticles)**  
-
 ⚫ **[Twitter/X – Follow Us](https://x.com/hackinarticles)**  
-
 🟣 **[Discord – Join Server](https://discord.com/invite/kyKvXwK4Bk)**  
-
 💼 **[LinkedIn – Follow HackingArticles](https://www.linkedin.com/company/hackingarticles)**  
 
-🎓 **[Join Our Cybersecurity Training Program](https://forms.gle/bowpX9TGEs41GDG99)**  
+## 🎓 Training Program
+
+🚀 **[Join Our Cybersecurity Training Program](https://forms.gle/bowpX9TGEs41GDG99)**  
+
+Hands-on training in **Penetration Testing, Red Teaming, and Cybersecurity.**
 
 
 ## 📑 Privacy Protection Series
