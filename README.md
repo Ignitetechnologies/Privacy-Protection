@@ -7,25 +7,14 @@ This repository provides step-by-step guides, tools, configurations, and checkli
 
 ## 🌐 Connect With Us
 
-<p align="left">
+🔵 **Telegram – Join Channel**  
+https://t.me/hackinarticles  
 
-<a href="https://t.me/hackinarticles">
-<img src="https://img.shields.io/badge/Telegram-Join%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
+⚫ **Twitter/X – Follow Us**  
+https://x.com/hackinarticles  
 
-<br>
-
-<a href="https://x.com/hackinarticles">
-<img src="https://img.shields.io/badge/Twitter-Follow%20Us-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>
-
-<br>
-
-<a href="https://discord.com/invite/kyKvXwK4Bk">
-<img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-
-</p>
+🟣 **Discord – Join Server**  
+https://discord.com/invite/kyKvXwK4Bk
 
 
 ## 📑 Privacy Protection Series
