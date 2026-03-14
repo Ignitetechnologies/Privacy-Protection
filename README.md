@@ -5,12 +5,23 @@ Welcome to the Privacy Protection Series for Pentesters — a practical collecti
 
 This repository provides step-by-step guides, tools, configurations, and checklists to help pentesters operate with maximum privacy and minimal traceability.
 
-<p align="center">
-<a href="https://t.me/hackinarticles">Telegram</a> •
-<a href="https://x.com/hackinarticles">Twitter</a> •
-<a href="https://discord.com/invite/kyKvXwK4Bk">Discord</a>
-</p>
+## 🌐 Connect With Us
 
+<p align="center">
+
+<a href="https://t.me/hackinarticles">
+<img src="https://img.shields.io/badge/Telegram-Join%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<a href="https://x.com/hackinarticles">
+<img src="https://img.shields.io/badge/Twitter-Follow%20Us-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+<a href="https://discord.com/invite/kyKvXwK4Bk">
+<img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+</p>
 
 
 ## 📑 Privacy Protection Series
