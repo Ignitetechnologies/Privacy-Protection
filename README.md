@@ -5,38 +5,11 @@ Welcome to the Privacy Protection Series for Pentesters — a practical collecti
 
 This repository provides step-by-step guides, tools, configurations, and checklists to help pentesters operate with maximum privacy and minimal traceability.
 
-🎯 What This Series Covers
-
-🧹 Metadata Protection
-Learn how to remove hidden metadata from files, images, and documents before sharing them.
-
-🌐 Secure Browsing for Pentesters
-Configure hardened browsers with privacy-focused settings and add-ons.
-
-📱 Secure Mobile Environment
-Use privacy-focused mobile operating systems and configurations to protect your identity.
-
-🕵️ Covering Digital Tracks
-Understand how logs, DNS leaks, tracking scripts, and system artifacts can expose activity.
-
-📋 Privacy Protection Checklist
-A structured checklist to ensure your operational environment is secure before performing security testing.
-
-⚠️ Why This Matters
-
-Without proper privacy protection, a pentester may accidentally expose:
-
-🧑‍💻 Real identity
-
-🌍 IP address & geolocation
-
-🖥 Testing infrastructure
-
-📂 Hidden metadata in files
-
-📡 Network activity patterns
-
-This project focuses on defensive OPSEC practices that allow security researchers to operate safely and responsibly.
+<p align="center">
+<a href="https://t.me/hackinarticles">Telegram</a> •
+<a href="https://x.com/hackinarticles">Twitter</a> •
+<a href="https://discord.com/invite/kyKvXwK4Bk">Discord</a>
+</p>
 
 
 
