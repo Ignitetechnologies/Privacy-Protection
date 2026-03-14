@@ -1,3 +1,8 @@
+
+🛡️ Privacy Protection for Pentesters
+
+A curated collection of Privacy Protection guides for Pentesters, OSINT investigators, and Security Researchers.
+
 ## 📑 Privacy Protection Series
 
 | # | Topic | Description | Article |
