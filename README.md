@@ -20,5 +20,5 @@ A curated collection of Privacy Protection guides for Pentesters, OSINT investig
 |11 | 🔐 File Encryption | Encrypt files before sharing or storing | [Read Article](https://www.hackingarticles.in/privacy-protection-file-encryption/) |
 |12 | 📱 GrapheneOS Installation | Install GrapheneOS on Pixel devices for maximum mobile privacy | [Read Article](https://www.hackingarticles.in/privacy-protection-mobile-graphene-os-installation-part-1/) |
 |13 | ⚙️ GrapheneOS Setup | Configure GrapheneOS privacy settings after installation | [Read Article](https://www.hackingarticles.in/privacy-protection-mobile-graphene-os-setup/) |
-|14 | ✅ Privacy Protection Checklist | Complete OPSEC checklist for protecting online privacy | [Read Article](https://www.hackingarticles.in/privacy-protection-checklist/) |
+|14 | ✅ Privacy Checklist | Complete OPSEC checklist for protecting online privacy | [Read Article](https://www.hackingarticles.in/privacy-protection-checklist/) |
 |15 | 🕵️ Cover Your Tracks | Techniques to reduce tracking and digital fingerprints | [Read Article](https://www.hackingarticles.in/privacy-protection-cover-your-tracks/) |
